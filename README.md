@@ -45,6 +45,8 @@ User Upload -> Next.js Tool Page -> FastAPI /api/analyze-diagram
 					-> Frontend Report Renderer + Collapsible Code Blocks
 ```
 
+![NeuroDecode Request Flow](public/neurodecode_flow.jpg)
+
 ### Frontend Architectural Pattern
 
 - App Router pages for route-level separation (`/`, `/tool`, `/about`)
